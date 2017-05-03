@@ -191,5 +191,8 @@ C:\Users\fede\Dropbox\Git\MvvmCrossProyect\Proyect\Proyect.core\obj\Debug\Proyec
 C:\Users\fede\Dropbox\Git\MvvmCrossProyect\Proyect\Proyect.core\obj\Debug\Proyect.core.pdb
 C:\Users\fede\Dropbox\Git\MvvmCrossProyect\Proyect\Proyect.core\obj\Debug\Proyect.core.dll.mdb
 C:\Users\fede\Dropbox\Git\MvvmCrossProyect\Proyect\Proyect.core\bin\Debug\Proyect.core.dll.mdb
-C:\Users\fede\Dropbox\Git\MvvmCrossProyect\Proyect\Proyect.core\obj\Debug\Proyect.core.dll.mdb
-C:\Users\fede\Dropbox\Git\MvvmCrossProyect\Proyect\Proyect.core\bin\Debug\Proyect.core.dll.mdb
+C:\Users\sistemas.NB01AGRARIA\Desktop\Programacion\fede\MvvmCross\Proyect\Proyect.core\obj\Debug\Proyect.core.csprojResolveAssemblyReference.cache
+C:\Users\sistemas.NB01AGRARIA\Desktop\Programacion\fede\MvvmCross\Proyect\Proyect.core\obj\Debug\Proyect.core.dll
+C:\Users\sistemas.NB01AGRARIA\Desktop\Programacion\fede\MvvmCross\Proyect\Proyect.core\obj\Debug\Proyect.core.pdb
+C:\Users\sistemas.NB01AGRARIA\Desktop\Programacion\fede\MvvmCross\Proyect\Proyect.core\obj\Debug\Proyect.core.dll.mdb
+C:\Users\sistemas.NB01AGRARIA\Desktop\Programacion\fede\MvvmCross\Proyect\Proyect.core\bin\Debug\Proyect.core.dll.mdb
